@@ -1,2 +1,1 @@
-# project
-student
+Studiram na Fakultetu informatike u Puli.
